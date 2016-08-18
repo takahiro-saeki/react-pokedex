@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import request from 'superagent';
-const URL = 'http://pokeapi.co/api/v2/pokemon/';
+const URL = 'http://pokeapi.co/api/v2/pokemon/munchlax';
 
 export default class Main extends Component {
   constructor(props) {
